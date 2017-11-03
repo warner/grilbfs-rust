@@ -1,0 +1,11 @@
+[package]
+name = "grilbfs"
+version = "0.1.0"
+authors = ["Brian Warner <warner@lothar.com>"]
+
+[dependencies]
+fuse = "0.3"
+
+libc = "0.2"
+log = "0.3"
+time = "0.1"
